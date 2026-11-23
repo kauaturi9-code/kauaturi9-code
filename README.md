@@ -1,12 +1,12 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is kauã 
 # Hi, I'm Kauã 👋
 
-- 🔭 I'm currently working as an **IT Technician**, handling the technology infrastructure of an industrial plant
-- 🌱 I'm currently learning **Java (object-oriented programming and data structures)**
+- 💼 I'm currently open to work, looking for opportunities in **software development**
 - 👯 I'm looking to collaborate on **software development projects**
 - 🤔 I'm looking for help with **transitioning from IT support to software development**
 - 💬 Ask me about **technical support, networking, IT infrastructure, and Sankhya ERP**
+
+## Currently learning
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 
 ## 🎓 Education
 
@@ -28,13 +28,14 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?kauaturi9-code&show_icons=true)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/kaua-yuri-costa-)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:kauturi9@gmail.com)
-
 <div>
 <a href="https://github.com/kauaturi9-code">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaturi9-code&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kauaturi9-codei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" align="top" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauaturi9-code&layout=compact&langs_count=7&theme=dracula&card_width=400"/>
+<img loading="lazy" align="top" width="400" src="https://github-readme-stats.vercel.app/api?username=kauaturi9-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=400"/>
+</a>
 </div>
 
+## 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](COLE_SEU_LINK_DO_LINKEDIN)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:kauturi9@gmail.com)
