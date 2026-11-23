@@ -7,7 +7,6 @@
 - 👯 I'm looking to collaborate on **software development projects**
 - 🤔 I'm looking for help with **transitioning from IT support to software development**
 - 💬 Ask me about **technical support, networking, IT infrastructure, and Sankhya ERP**
-- 📫 How to reach me: **kauturi9@gmail.com** | [LinkedIn](www.linkedin.com/in/kaua-yuri-costa-)
 
 ## 🎓 Education
 
@@ -30,3 +29,5 @@
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/kaua-yuri-costa-)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:kauturi9@gmail.com)
