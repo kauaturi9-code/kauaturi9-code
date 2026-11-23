@@ -40,4 +40,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-yuri-costa-)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:kauturi9@gmail.com)
 
-![Snake animation](https://raw.githubusercontent.com/kauaturi9-code/kauaturi9-code/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauaturi9-code/Kauayuri/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kauaturi9-code/Kauayuri/output/github-contribution-grid-snake.svg">
+</picture>
