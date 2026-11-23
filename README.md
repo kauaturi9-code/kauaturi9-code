@@ -39,3 +39,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-yuri-costa-)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:kauturi9@gmail.com)
+
+![Snake animation](https://raw.githubusercontent.com/kauaturi9-code/kauaturi9-code/output/github-contribution-grid-snake.svg)
