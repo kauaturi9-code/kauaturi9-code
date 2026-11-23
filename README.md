@@ -31,3 +31,10 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/kaua-yuri-costa-)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:kauturi9@gmail.com)
+
+<div>
+<a href="https://github.com/Kauã">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauã&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauã&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
