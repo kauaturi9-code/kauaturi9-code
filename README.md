@@ -26,14 +26,12 @@
 - **IT Technician**, Support Informática (Usina Fitassul): user support, networking, Sankhya ERP, and ticket management
 - **IT Intern**, Itajubá City Hall: computer and printer maintenance, IT equipment inventory control
 
+
 ## 📊 GitHub Stats
 
-<div>
 <a href="https://github.com/kauaturi9-code">
-<img loading="lazy" align="top" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauaturi9-code&layout=compact&langs_count=7&theme=dracula&card_width=400"/>
-<img loading="lazy" align="top" width="400" src="https://github-readme-stats.vercel.app/api?username=kauaturi9-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=400"/>
+<img loading="lazy" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauaturi9-code&layout=compact&langs_count=7&theme=dracula&card_width=400"/>
 </a>
-</div>
 
 ## 📫 Get in touch
 
